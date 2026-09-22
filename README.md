@@ -7,6 +7,7 @@ Sou estudante e desenvolvedor de software, movido pela paixão por tecnologia, i
 * C
 * C++
 * JavaScript
+* TypeScript
 * Java
 * Kotlin
 * HTML5
