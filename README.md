@@ -14,6 +14,7 @@ Sou estudante e desenvolvedor de software, movido pela paixão por tecnologia, i
 * CSS3
 * Git
 * Python
+* React e React Native
 * E outras tecnologias em constante aprendizado.
 
 Acredito na evolução contínua e estou sempre buscando aprimorar minhas habilidades, explorar novas tecnologias e desenvolver projetos que ampliem meu conhecimento técnico e minha capacidade de resolver desafios complexos.
